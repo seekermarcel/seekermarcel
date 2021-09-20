@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Marcel Meier and I'm currently writing my Bachelors Thesis.
+
+- Worked in DevOps for some years and learned a lot of backend there
+- Currently learning some frontend and trying to become a Fullstack Developer
+
 <!--
 **seekermarcel/seekermarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
