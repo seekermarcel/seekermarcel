@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-My name is Marcel Meier and I'm currently working as a DevOps Engineer and doing my Masters at the same time.
-
-- Worked in different DevOps Jobs for some years and learned a lot of backend there
-- Currently learning some frontend and trying to become a Fullstack Developer
+My name is Marcel Meier and I'm currently working as a DevOps Engineer and doing my Masters Degree at the same time.
 
 <!--
 **seekermarcel/seekermarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
