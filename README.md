@@ -43,7 +43,7 @@ Outside of day-to-day engineering, I’m interested in:
 
 These interests tend to leak into how I think about engineering and risk.
 
-![GitHub stats](https://github-readme-stats-one-iota-99.vercel.app/api?username=seekermarcel&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats-one-iota-99.vercel.app/api?username=seekermarcel&show_icons=true&theme=synthwave&hide=contribs)
 
 <!--
 **seekermarcel/seekermarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
