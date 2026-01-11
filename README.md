@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Marcel
 
 I’m a DevOps / Software Engineer who enjoys building **systems that work in the real world**, not just in diagrams. 
-I work across infrastructure, backend engineering, and automation and I care a lot about making things reliable, understandable and not painful to operate.
+I work across infrastructure, backend engineering and automation and I care a lot about making things reliable, understandable and not painful to operate.
 
 Most of my experience is around cloud platforms, Kubernetes and CI/CD, but I’m just as interested in **how software is built, shipped and maintained** as I am in the infrastructure underneath it.
 
