@@ -5,7 +5,7 @@ I work across infrastructure, backend engineering, and automation and I care a l
 
 Most of my experience is around cloud platforms, Kubernetes and CI/CD, but I’m just as interested in **how software is built, shipped and maintained** as I am in the infrastructure underneath it.
 
----
+
 
 ## 🧠 How I like to work
 
@@ -17,7 +17,7 @@ Most of my experience is around cloud platforms, Kubernetes and CI/CD, but I’m
 
 I like understanding _why_ things break - and how to design systems that fail in controlled, boring ways.
 
----
+
 
 ## 🛠️ What you’ll find here
 
@@ -30,7 +30,7 @@ This GitHub is a mix of:
 
 Most repos are built with a “would I trust this in production?” mindset.
 
----
+
 
 ## 🧩 Side interests
 
